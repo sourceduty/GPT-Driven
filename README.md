@@ -51,5 +51,8 @@ Additionally, these systems all aim to simplify and streamline complex processes
 <br>
 [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
 
+#
+![Conceptual](https://github.com/user-attachments/assets/6067f61a-958e-4666-a593-1c71f440694e)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
